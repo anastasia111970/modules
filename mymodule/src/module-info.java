@@ -1,3 +1,6 @@
 module mymodule {
-    exports com.tsconsulting.modules.hello to runner;
+
+    exports com.tsconsulting.modules.hello;
+    provides com.tsconsulting.modules.hello.Welcomer with com.tsconsulting.modules.hello.impl.WelcomerImpl;
+
 }
