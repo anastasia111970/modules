@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="reflection-runner" />
+        <module name="uses-provides-module" />
+        <module name="import-requires-com.tsconsulting.module" />
+        <module name="import-requires-runner" />
+        <module name="reflection-module" />
+        <module name="uses-provides-runner" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="example-erquires-exports" target="1.5" />
+      <module name="example-imports-requires" target="11" />
+      <module name="example-reflection" target="11" />
+      <module name="example-uses-provides" target="11" />
+      <module name="import-requires-com.tsconsulting.module" target="11" />
+      <module name="import-requires-module" target="11" />
+      <module name="import-requires-runner" target="11" />
+      <module name="modulesdemo" target="11" />
+      <module name="reflection-module" target="11" />
+      <module name="reflection-runner" target="11" />
+      <module name="uses-provides-module" target="11" />
+      <module name="uses-provides-runner" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

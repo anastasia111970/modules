@@ -1,0 +1,5 @@
+module runner {
+
+    requires mymodule;
+
+}

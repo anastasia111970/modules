@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/example-imports-requires/example-imports-requires.iml" filepath="$PROJECT_DIR$/example-imports-requires/example-imports-requires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-reflection/example-reflection.iml" filepath="$PROJECT_DIR$/example-reflection/example-reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-uses-provides/example-uses-provides.iml" filepath="$PROJECT_DIR$/example-uses-provides/example-uses-provides.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-imports-requires/import-requires-module/import-requires-com.tsconsulting.module.iml" filepath="$PROJECT_DIR$/example-imports-requires/import-requires-module/import-requires-com.tsconsulting.module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-imports-requires/import-requires-runner/import-requires-runner.iml" filepath="$PROJECT_DIR$/example-imports-requires/import-requires-runner/import-requires-runner.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulesdemo.iml" filepath="$PROJECT_DIR$/modulesdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mymodule/mymodule.iml" filepath="$PROJECT_DIR$/mymodule/mymodule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/runner/runner.iml" filepath="$PROJECT_DIR$/runner/runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-reflection/reflection-module/reflection-module.iml" filepath="$PROJECT_DIR$/example-reflection/reflection-module/reflection-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-reflection/reflection-runner/reflection-runner.iml" filepath="$PROJECT_DIR$/example-reflection/reflection-runner/reflection-runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-erquires-exports/requirers-exports-runner/requirers-exports-runner.iml" filepath="$PROJECT_DIR$/example-erquires-exports/requirers-exports-runner/requirers-exports-runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-erquires-exports/requires-exports-module/requires-exports-module.iml" filepath="$PROJECT_DIR$/example-erquires-exports/requires-exports-module/requires-exports-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-uses-provides/uses-provides-module/uses-provides-module.iml" filepath="$PROJECT_DIR$/example-uses-provides/uses-provides-module/uses-provides-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-uses-provides/uses-provides-runner/uses-provides-runner.iml" filepath="$PROJECT_DIR$/example-uses-provides/uses-provides-runner/uses-provides-runner.iml" />
     </modules>
   </component>
 </project>
